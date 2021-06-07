@@ -1,0 +1,1 @@
+{"jobID":"c5aee595-484b-6b26-7ebd-0bb7874c95c6","spec":{"type":"policy","cause":{"Message":"","User":"Victor Avramenko \u003cv.avramenko@unsw.edu.au\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
