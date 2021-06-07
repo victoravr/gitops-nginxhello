@@ -13,3 +13,6 @@ spec:
   rollback:
     enable: true
     retry: true
+  values: 
+    image: 
+      tag: 1.19.1
